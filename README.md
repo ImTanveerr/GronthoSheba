@@ -4,13 +4,6 @@ This is the **frontend** for the [Minimal Library Management System](#), built u
 
 ---
 
-## 🔗 Live Demo
-
-- 🌐 **Frontend**: [https://frontend-two-theta-91.vercel.app/](#)
-- ⚙️ **Backend Repo**: [https://github.com/ImTanveerr/Assignment-3](#)
-
----
-
 ## 🧩 Features
 
 - 📖 View, add, edit, and delete books
@@ -32,10 +25,3 @@ This is the **frontend** for the [Minimal Library Management System](#), built u
 | API (Backend) | Node.js + Express (MongoDB)  |
 
 ---
-
-## 🌐 CORS Configuration
-
-The backend is configured to allow cross-origin requests from the following origins:
-
-```js
-origin: ['http://localhost:5174', 'https://frontend-three-neon-81.vercel.app']
